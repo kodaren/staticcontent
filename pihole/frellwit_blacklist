@@ -870,3 +870,7 @@
 0.0.0.0 yoursecurecheckout1.com
 0.0.0.0 z.moatads.com
 0.0.0.0 znbkpczkrl5wwqzj3-tripadvisor.siteintercept.qualtrics.com
+
+# --- BEGIN Blocking sites I do not want ---
+0.0.0.0 comeon.com
+# --- END Blocking sites I do not want ---
