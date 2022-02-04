@@ -872,8 +872,5 @@
 0.0.0.0 znbkpczkrl5wwqzj3-tripadvisor.siteintercept.qualtrics.com
 
 # --- BEGIN Blocking sites I do not want ---
-0.0.0.0 aboutme.schibsted.com
-0.0.0.0 brandmetrics.com
-0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 comeon.com
 # --- END Blocking sites I do not want ---
